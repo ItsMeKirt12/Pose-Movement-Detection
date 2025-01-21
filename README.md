@@ -13,7 +13,7 @@ Steps on how to run the code:
 # Sample Pictures: 
 
 
-Pose 1 "Standing":      \n
+Pose 1 "Standing":        
 ![pose 1](https://github.com/user-attachments/assets/a3d92896-1bc2-4e9c-a6e4-40674de45855)
 
 Pose 2 "Sitting":
