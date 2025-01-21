@@ -10,7 +10,7 @@ Steps on how to run the code:
 4.Keep pressing "Q" until you see a text in top left corner of the window feed
 5.Then you're all set!
 
-##Sample Pictures: 
+# Sample Pictures: 
 
 
 Pose 1 "Standing":      
